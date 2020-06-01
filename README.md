@@ -1,4 +1,4 @@
 # HNGi7
 
-__:zero:Stage 0__
+__Stage :zero:__
 First task in this Internship!
